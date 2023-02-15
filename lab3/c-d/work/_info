@@ -1,0 +1,103 @@
+m255
+K4
+z2
+!s11e MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/tsauren/M-drive/Documents/IN3160/lab3/prosjekt/a-b
+T_opt
+!s110 1676058833
+VbTJQFT65OMN7U?l:BICb:2
+04 23 4 work tb_variables_vs_signals beh1 1
+=1-00505682073f-63e6a0d1-903e4-2d77
+o-quiet -auto_acc_if_foreign -work work
+tCvgOpt 0
+n@_opt
+OL;O;2020.4;71
+Etb_variables_vs_signals
+Z0 w1675942873
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 9
+Z3 d/home/tsauren/M-drive/Documents/IN3160/lab3/prosjekt/c-d
+Z4 8/home/tsauren/M-drive/Documents/IN3160/lab3/prosjekt/c-d/src/tb_variables_vs_signals.vhd
+Z5 F/home/tsauren/M-drive/Documents/IN3160/lab3/prosjekt/c-d/src/tb_variables_vs_signals.vhd
+l0
+L5 1
+Vz]=8;0^0DfoPamRDOfVJ]0
+!s100 [Z2]TW_el<OW]jEMn<=2k1
+Z6 OL;C;2020.4;71
+33
+Z7 !s110 1676058824
+!i10b 1
+Z8 !s108 1676058824.000000
+Z9 !s90 -reportprogress|300|-work|work|-2008|-explicit|-vopt|-stats=none|/home/tsauren/M-drive/Documents/IN3160/lab3/prosjekt/c-d/src/tb_variables_vs_signals.vhd|
+Z10 !s107 /home/tsauren/M-drive/Documents/IN3160/lab3/prosjekt/c-d/src/tb_variables_vs_signals.vhd|
+!i113 0
+Z11 o-work work -2008 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Abeh1
+Z13 DEx4 work 20 variables_vs_signals 0 22 fa4<H9_V[4>X1MGPQfgUJ2
+R1
+R2
+DEx4 work 23 tb_variables_vs_signals 0 22 z]=8;0^0DfoPamRDOfVJ]0
+!i122 9
+l20
+L9 22
+Ve@Ez?HZHi3D9H=CegR1bW1
+!s100 ?e5V=Glz5MZgISbg3b=oz0
+R6
+33
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 0
+R11
+R12
+Evariables_vs_signals
+Z14 w1676058724
+R1
+R2
+!i122 10
+R3
+Z15 8/home/tsauren/M-drive/Documents/IN3160/lab3/prosjekt/c-d/src/variables_vs_signals.vhd
+Z16 F/home/tsauren/M-drive/Documents/IN3160/lab3/prosjekt/c-d/src/variables_vs_signals.vhd
+l0
+L4 1
+Vfa4<H9_V[4>X1MGPQfgUJ2
+!s100 YajT3B4;@Z^@1oGPXJUL?3
+R6
+33
+R7
+!i10b 1
+R8
+Z17 !s90 -reportprogress|300|-work|work|-2008|-explicit|-vopt|-stats=none|/home/tsauren/M-drive/Documents/IN3160/lab3/prosjekt/c-d/src/variables_vs_signals.vhd|
+Z18 !s107 /home/tsauren/M-drive/Documents/IN3160/lab3/prosjekt/c-d/src/variables_vs_signals.vhd|
+!i113 0
+R11
+R12
+Artl1
+R1
+R2
+R13
+!i122 10
+l13
+L11 22
+V=c[D?eDOh>Ocz_;EYzd`X0
+!s100 VbMA:Jc`bQn=Kc5lEmz8H3
+R6
+33
+R7
+!i10b 1
+R8
+R17
+R18
+!i113 0
+R11
+R12

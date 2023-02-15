@@ -1,0 +1,124 @@
+m255
+K4
+z2
+!s11e vcom 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/uio/hume/student-u06/tsauren/Documents/IN3160/lab1/cookbook
+T_opt
+!s110 1675943180
+ViJ;E]YifN<NB;cBd6H;JG2
+04 5 4 work delay rtl1 2
+Z1 04 8 4 work tb_delay beh1 1
+=1-5065f33fb00e-63e4dd0b-7dfdb-1aa1
+Z2 o-quiet -auto_acc_if_foreign -work work
+Z3 tCvgOpt 0
+n@_opt
+Z4 OL;O;2020.4;71
+R0
+T_opt1
+!s110 1675943248
+VMFRUaU5:2lb7;SLK?i9UL0
+R1
+=1-5065f33fb00e-63e4dd50-9ca3a-1bc3
+R2
+R3
+n@_opt1
+R4
+R0
+T_opt2
+!s110 1676053201
+VX2R0d>EHB9zT5ASB6]n8g0
+R1
+=4-00505682073f-63e68ad0-ac283-20ff
+R2
+R3
+n@_opt2
+R4
+Edelay
+Z5 w1676051080
+Z6 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z7 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 28
+Z8 d/home/tsauren/M-drive/Documents/IN3160/lab3/prosjekt/a-b
+Z9 8/home/tsauren/M-drive/Documents/IN3160/lab3/prosjekt/a-b/src/delay.vhd
+Z10 F/home/tsauren/M-drive/Documents/IN3160/lab3/prosjekt/a-b/src/delay.vhd
+l0
+L5 1
+Vb5;bIDWnDYNVbGY6>@T?31
+!s100 Z_QX9Jo]?GeEKUQISWDd40
+Z11 OL;C;2020.4;71
+33
+Z12 !s110 1676053193
+!i10b 1
+Z13 !s108 1676053193.000000
+Z14 !s90 -reportprogress|300|-work|work|-2008|-explicit|-vopt|-stats=none|/home/tsauren/M-drive/Documents/IN3160/lab3/prosjekt/a-b/src/delay.vhd|
+Z15 !s107 /home/tsauren/M-drive/Documents/IN3160/lab3/prosjekt/a-b/src/delay.vhd|
+!i113 0
+Z16 o-work work -2008 -explicit
+Z17 tExplicit 1 CvgOpt 0
+Artl1
+R6
+R7
+Z18 DEx4 work 5 delay 0 22 b5;bIDWnDYNVbGY6>@T?31
+!i122 28
+l17
+L15 21
+V5U7[gBD<dSNRGLVWH5f5R0
+!s100 kHA[=llW42]^:K8eSn_0L1
+R11
+33
+R12
+!i10b 1
+R13
+R14
+R15
+!i113 0
+R16
+R17
+Etb_delay
+Z19 w1676053191
+R6
+R7
+!i122 29
+R8
+Z20 8/home/tsauren/M-drive/Documents/IN3160/lab3/prosjekt/a-b/src/tb_delay.vhd
+Z21 F/home/tsauren/M-drive/Documents/IN3160/lab3/prosjekt/a-b/src/tb_delay.vhd
+l0
+L5 1
+V3o;A?RVeQQ5m^Ka0kS1<Q1
+!s100 7C@ShKQVRM=^^`7GOEoAD0
+R11
+33
+R12
+!i10b 1
+R13
+Z22 !s90 -reportprogress|300|-work|work|-2008|-explicit|-vopt|-stats=none|/home/tsauren/M-drive/Documents/IN3160/lab3/prosjekt/a-b/src/tb_delay.vhd|
+Z23 !s107 /home/tsauren/M-drive/Documents/IN3160/lab3/prosjekt/a-b/src/tb_delay.vhd|
+!i113 0
+R16
+R17
+Abeh1
+R18
+R6
+R7
+DEx4 work 8 tb_delay 0 22 3o;A?RVeQQ5m^Ka0kS1<Q1
+!i122 29
+l24
+L9 49
+V3km^aVGJM@]h?:J6<WacV3
+!s100 [ST[[JkdAiBmm>5N<bg1b2
+R11
+33
+R12
+!i10b 1
+R13
+R22
+R23
+!i113 0
+R16
+R17

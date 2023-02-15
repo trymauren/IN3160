@@ -1,0 +1,7 @@
+v 4
+file . "tb_variables_vs_signals.vhd" "da01ef19e527bc9a02855648a3d13c6093ae5976" "20230211204129.699":
+  entity tb_variables_vs_signals at 2( 1) + 0 on 49;
+  architecture beh1 of tb_variables_vs_signals at 9( 121) + 0 on 50;
+file . "variables_vs_signals.vhd" "cd8fd823eb9b0abb23cfdbd3312d191da7808216" "20230211204129.671":
+  entity variables_vs_signals at 1( 0) + 0 on 47;
+  architecture rtl1 of variables_vs_signals at 11( 197) + 0 on 48;

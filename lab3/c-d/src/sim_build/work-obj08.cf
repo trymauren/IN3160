@@ -1,0 +1,4 @@
+v 4
+file / "/Users/trym/Documents/Robotikk/IN3160/lab3/c-d/src/variables_vs_signals.vhd" "cd8fd823eb9b0abb23cfdbd3312d191da7808216" "20230211202607.954":
+  entity variables_vs_signals at 1( 0) + 0 on 11;
+  architecture rtl1 of variables_vs_signals at 11( 197) + 0 on 12;

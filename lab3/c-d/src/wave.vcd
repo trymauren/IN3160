@@ -1,0 +1,47 @@
+$date
+  Sat Feb 11 21:41:29 2023
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module textio $end
+$upscope $end
+$scope module std_logic_1164 $end
+$upscope $end
+$scope module tb_variables_vs_signals $end
+$var reg 1 ! indata $end
+$var reg 8 " outdata[7:0] $end
+$scope module uut_0 $end
+$var reg 1 # indata $end
+$var reg 8 $ outdata[7:0] $end
+$var reg 1 % sig1 $end
+$var reg 1 & sig2 $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+0!
+b10111000 "
+0#
+b10111000 $
+0%
+1&
+#100000000
+1!
+b01000111 "
+1#
+b01000111 $
+1%
+0&
+#200000000
+0!
+b10111000 "
+0#
+b10111000 $
+0%
+1&
