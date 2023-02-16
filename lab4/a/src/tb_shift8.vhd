@@ -2,14 +2,12 @@ library ieee;
 use ieee.std_logic_1164.all;
 
 entity tb_shift8 is
-  -- empty;
 end tb_shift8;
 
 architecture behavioural of tb_shift8 is
   
   -- see https://vhdlwhiz.com/clocked-process/
-  constant clk_freq : integer := 2; 
-  constant clk_period : time := 100 ns / clk_freq;
+  constant clk_period : time := 100 ns;
 
   signal mclk : std_logic := '1';
   signal rst_n : std_logic := '0';
@@ -30,7 +28,7 @@ architecture behavioural of tb_shift8 is
 
 begin
 
-  UUT_0: entity work.shift8(shift_arc) -- ikke endre denne! Den skal være lik som entitet i dff.vhd
+  UUT_0: entity work.shift8(shift_arc)
     port map(
             rst_n  => rst_n,
             mclk => mclk,
@@ -54,6 +52,8 @@ begin
     in_ser <= '0';
     wait for 50 ns;
     in_ser <= '1';
+    wait for 600 ns;
+    rst_n <= '0';
     wait;
     end process;
 end behavioural;

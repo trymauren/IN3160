@@ -1,0 +1,102 @@
+m255
+K4
+z2
+!s11e vcom 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/uio/hume/student-u06/tsauren/Documents/IN3160/lab2/prosjekt/a
+T_opt
+Z1 !s110 1675356920
+Vm:J4<0I]=k;AnnHiEMnHA3
+04 12 9 work decoder_test testbench 1
+=1-5065f33f9a7c-63dbeaf8-545ac-3a9da
+o-quiet -auto_acc_if_foreign -work work +acc
+tCvgOpt 0
+n@_opt
+OL;O;2020.4;71
+Edecoder
+Z2 w1675352743
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 2
+R0
+Z5 8/uio/hume/student-u06/tsauren/Documents/IN3160/lab2/prosjekt/a/src/decoder_task_a.vhd
+Z6 F/uio/hume/student-u06/tsauren/Documents/IN3160/lab2/prosjekt/a/src/decoder_task_a.vhd
+l0
+L4 1
+Vb?ViC@hPM1B0zcLTihIA?3
+!s100 j4=8FZ3Xlhf63EZmhMDCo1
+Z7 OL;C;2020.4;71
+33
+Z8 !s110 1675356866
+!i10b 1
+Z9 !s108 1675356866.000000
+Z10 !s90 -reportprogress|300|-work|work|-2008|-explicit|-vopt|-stats=none|/uio/hume/student-u06/tsauren/Documents/IN3160/lab2/prosjekt/a/src/decoder_task_a.vhd|
+Z11 !s107 /uio/hume/student-u06/tsauren/Documents/IN3160/lab2/prosjekt/a/src/decoder_task_a.vhd|
+!i113 0
+Z12 o-work work -2008 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Aarkitekt
+R3
+R4
+DEx4 work 7 decoder 0 22 b?ViC@hPM1B0zcLTihIA?3
+!i122 2
+l13
+L12 11
+VOzC7A4VbIP[g;]b^1g7Jj1
+!s100 >FPLY7`TFCCB9SAe<L]c63
+R7
+33
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 0
+R12
+R13
+Edecoder_test
+Z14 w1675352730
+R3
+R4
+!i122 4
+R0
+Z15 8/uio/hume/student-u06/tsauren/Documents/IN3160/lab2/prosjekt/a/src/decoder_tb_task_a.vhd
+Z16 F/uio/hume/student-u06/tsauren/Documents/IN3160/lab2/prosjekt/a/src/decoder_tb_task_a.vhd
+l0
+L4 1
+VRMVm`2SI;fl37iXQZ]<1=0
+!s100 6M`Q4zbYWbR2>=XKUCn[=1
+R7
+33
+R1
+!i10b 1
+Z17 !s108 1675356920.000000
+Z18 !s90 -reportprogress|300|-work|work|-2008|-explicit|-vopt|-stats=none|/uio/hume/student-u06/tsauren/Documents/IN3160/lab2/prosjekt/a/src/decoder_tb_task_a.vhd|
+Z19 !s107 /uio/hume/student-u06/tsauren/Documents/IN3160/lab2/prosjekt/a/src/decoder_tb_task_a.vhd|
+!i113 0
+R12
+R13
+Atestbench
+R3
+R4
+DEx4 work 12 decoder_test 0 22 RMVm`2SI;fl37iXQZ]<1=0
+!i122 4
+l22
+L8 40
+Vo8@Y4:URdN45h^N`VH5BF2
+!s100 5a>E<FkXEBE=al=2Hgd_80
+R7
+33
+R1
+!i10b 1
+R17
+R18
+R19
+!i113 0
+R12
+R13

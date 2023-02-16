@@ -17,29 +17,74 @@ architecture shift_arc of shift8 is
 
   signal shift_register : std_logic_vector(8 downto 0);
   
-  component dff is -- ikke endre denne! Den skal være lik som entitet i dff.vhd
+  component dff is
     port(
         rst_n     : in  std_logic;   -- Reset
         mclk      : in  std_logic;   -- Clock
-        -- Shifted data in and out
         din       : in  std_logic;   -- Data in
         dout      : out std_logic    -- Data out
         );
   end component;
-  begin
-    instantiating_loop : for i in 0 to 7 generate komponent: dff
-      port map(
-              --din => din(i)
-              --dout => dout(i)
-              rst_n => rst_n, --good
-              mclk => mclk, --good
-              dout => shift_register(i+1),
-              din => shift_register(i)
-              );
-    end generate;
 
-  shift_register(0) <= in_ser;
-  out_par <= shift_register(8 downto 1);
-  out_ser <= shift_register(8);
+  begin
+    dff_1 : dff
+      port map(
+              rst_n => rst_n,
+              mclk => mclk, 
+              dout => shift_register(1),
+              din => shift_register(0)
+              );
+    dff_2 : dff
+      port map(
+              rst_n => rst_n,
+              mclk => mclk, 
+              dout => shift_register(2),
+              din => shift_register(1)
+              );
+    dff_3 : dff
+      port map(
+              rst_n => rst_n,
+              mclk => mclk, 
+              dout => shift_register(3),
+              din => shift_register(2)
+              );
+    dff_4 : dff
+      port map(
+              rst_n => rst_n,
+              mclk => mclk, 
+              dout => shift_register(4),
+              din => shift_register(3)
+              );
+    dff_5 : dff
+      port map(
+              rst_n => rst_n,
+              mclk => mclk, 
+              dout => shift_register(5),
+              din => shift_register(4)
+              );
+    dff_6 : dff
+      port map(
+              rst_n => rst_n,
+              mclk => mclk, 
+              dout => shift_register(6),
+              din => shift_register(5)
+              );
+    dff_7 : dff
+      port map(
+              rst_n => rst_n,
+              mclk => mclk, 
+              dout => shift_register(7),
+              din => shift_register(6)
+              );
+    dff_8 : dff
+      port map(
+              rst_n => rst_n,
+              mclk => mclk, 
+              dout => shift_register(8),
+              din => shift_register(7)
+              );
+    shift_register(0) <= in_ser;
+    out_par <= shift_register(8 downto 1);
+    out_ser <= shift_register(8);
 
 end shift_arc;

@@ -21,5 +21,3 @@ begin
     end if;
   end process P_DFF;  
 end rtl;
-
--- This is a D- flipflop (dff)! :D

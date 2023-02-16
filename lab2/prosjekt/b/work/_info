@@ -1,0 +1,115 @@
+m255
+K4
+z2
+!s11e vcom 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/uio/hume/student-u06/tsauren
+T_opt
+!s110 1675356343
+VVFeXThlUB8Y`SIoGhba8b1
+Z1 04 12 9 work decoder_test testbench 1
+=1-5065f33f9a7c-63dbe8b7-45a14-39ec8
+o-quiet -auto_acc_if_foreign -work work
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;2020.4;71
+R0
+T_opt1
+Z4 !s110 1675356395
+VaR8h:efgj8D=0e<`5Y8cG1
+R1
+=1-5065f33f9a7c-63dbe8eb-5c85d-3a00b
+o-quiet -auto_acc_if_foreign -work work +acc
+R2
+n@_opt1
+R3
+Edecoder
+w1675354459
+Z5 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z6 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 19
+Z7 d/uio/hume/student-u06/tsauren/Documents/IN3160/lab2/prosjekt/b
+8/uio/hume/student-u06/tsauren/Documents/IN3160/lab2/prosjekt/b/src/decoder_ent_task_b.vhd
+F/uio/hume/student-u06/tsauren/Documents/IN3160/lab2/prosjekt/b/src/decoder_ent_task_b.vhd
+l0
+L4 1
+Vb?ViC@hPM1B0zcLTihIA?3
+!s100 j4=8FZ3Xlhf63EZmhMDCo1
+Z8 OL;C;2020.4;71
+33
+Z9 !s110 1675356277
+!i10b 1
+Z10 !s108 1675356277.000000
+!s90 -reportprogress|300|-work|work|-2008|-explicit|-vopt|-stats=none|/uio/hume/student-u06/tsauren/Documents/IN3160/lab2/prosjekt/b/src/decoder_ent_task_b.vhd|
+!s107 /uio/hume/student-u06/tsauren/Documents/IN3160/lab2/prosjekt/b/src/decoder_ent_task_b.vhd|
+!i113 0
+Z11 o-work work -2008 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Aarkitekt
+w1675355795
+DEx4 work 7 decoder 0 22 b?ViC@hPM1B0zcLTihIA?3
+R5
+R6
+!i122 19
+8/uio/hume/student-u06/tsauren/Documents/IN3160/lab2/prosjekt/b/src/decoder_arc_task_b.vhd
+F/uio/hume/student-u06/tsauren/Documents/IN3160/lab2/prosjekt/b/src/decoder_arc_task_b.vhd
+l6
+L4 11
+Vnm^<fB62C5HUi@f[MbFcc3
+!s100 YJL=PhVGZGg`<UiG@B<@g3
+R8
+33
+R9
+!i10b 1
+R10
+!s90 -reportprogress|300|-work|work|-2008|-explicit|-vopt|-stats=none|/uio/hume/student-u06/tsauren/Documents/IN3160/lab2/prosjekt/b/src/decoder_arc_task_b.vhd|
+!s107 /uio/hume/student-u06/tsauren/Documents/IN3160/lab2/prosjekt/b/src/decoder_arc_task_b.vhd|
+!i113 0
+R11
+R12
+Edecoder_test
+Z13 w1675352730
+R5
+R6
+!i122 21
+R7
+Z14 8/uio/hume/student-u06/tsauren/Documents/IN3160/lab2/prosjekt/b/src/decoder_tb_task_b.vhd
+Z15 F/uio/hume/student-u06/tsauren/Documents/IN3160/lab2/prosjekt/b/src/decoder_tb_task_b.vhd
+l0
+L4 1
+VRMVm`2SI;fl37iXQZ]<1=0
+!s100 6M`Q4zbYWbR2>=XKUCn[=1
+R8
+33
+R4
+!i10b 1
+Z16 !s108 1675356395.000000
+Z17 !s90 -reportprogress|300|-work|work|-2008|-explicit|-vopt|-stats=none|/uio/hume/student-u06/tsauren/Documents/IN3160/lab2/prosjekt/b/src/decoder_tb_task_b.vhd|
+Z18 !s107 /uio/hume/student-u06/tsauren/Documents/IN3160/lab2/prosjekt/b/src/decoder_tb_task_b.vhd|
+!i113 0
+R11
+R12
+Atestbench
+R5
+R6
+DEx4 work 12 decoder_test 0 22 RMVm`2SI;fl37iXQZ]<1=0
+!i122 21
+l22
+L8 40
+Vo8@Y4:URdN45h^N`VH5BF2
+!s100 5a>E<FkXEBE=al=2Hgd_80
+R8
+33
+R4
+!i10b 1
+R16
+R17
+R18
+!i113 0
+R11
+R12

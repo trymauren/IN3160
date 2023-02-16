@@ -1,0 +1,115 @@
+m255
+K4
+z2
+!s11e vcom 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/uio/hume/student-u06/tsauren
+T_opt
+!s110 1675005507
+Vm;^SIcJVJcUUkg]0<f2ke1
+Z1 04 10 9 work test_first testbench 1
+=1-5065f33f9a7c-63d68e41-49c05-15dce
+o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;2020.4;71
+R0
+T_opt1
+!s110 1675341579
+Vj1VGzg?QnXTBioIB_]DTg0
+R1
+=2-5065f33f9a7c-63dbaf0b-52201-2f680
+o-quiet -auto_acc_if_foreign -work work
+R2
+n@_opt1
+R3
+R0
+Efirst
+Z4 w1675258200
+Z5 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z6 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z7 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 24
+Z8 d/uio/hume/student-u06/tsauren/Documents/IN3160/lab1/cookbook
+Z9 8/uio/hume/student-u06/tsauren/Documents/IN3160/lab1/cookbook/src/first.vhd
+Z10 F/uio/hume/student-u06/tsauren/Documents/IN3160/lab1/cookbook/src/first.vhd
+l0
+L5 1
+VE7:98N8c9G;O257mi=PXQ3
+!s100 ?9cAVO5QU2YcUbnFnZEV30
+Z11 OL;C;2020.4;71
+33
+Z12 !s110 1675865239
+!i10b 1
+Z13 !s108 1675865239.000000
+Z14 !s90 -reportprogress|300|-work|work|-2008|-explicit|-vopt|-stats=none|/uio/hume/student-u06/tsauren/Documents/IN3160/lab1/cookbook/src/first.vhd|
+Z15 !s107 /uio/hume/student-u06/tsauren/Documents/IN3160/lab1/cookbook/src/first.vhd|
+!i113 0
+Z16 o-work work -2008 -explicit
+Z17 tExplicit 1 CvgOpt 0
+Amy_first_arch
+R5
+R6
+R7
+DEx4 work 5 first 0 22 E7:98N8c9G;O257mi=PXQ3
+!i122 24
+l27
+L22 43
+VN=zGfJ_gZMX8JJ1oJWejX0
+!s100 GaVCRS6:W]o7KWnJ9GCHm1
+R11
+33
+R12
+!i10b 1
+R13
+R14
+R15
+!i113 0
+R16
+R17
+Etest_first
+Z18 w1675341405
+R6
+R7
+!i122 25
+R8
+Z19 8/uio/hume/student-u06/tsauren/Documents/IN3160/lab1/cookbook/src/tb_first.vhd
+Z20 F/uio/hume/student-u06/tsauren/Documents/IN3160/lab1/cookbook/src/tb_first.vhd
+l0
+L4 1
+V@2<J>@`Co8gb8om`MX=?60
+!s100 fUfV>[KJDY=V3A^2^UCX90
+R11
+33
+Z21 !s110 1675865240
+!i10b 1
+R13
+Z22 !s90 -reportprogress|300|-work|work|-2008|-explicit|-vopt|-stats=none|/uio/hume/student-u06/tsauren/Documents/IN3160/lab1/cookbook/src/tb_first.vhd|
+Z23 !s107 /uio/hume/student-u06/tsauren/Documents/IN3160/lab1/cookbook/src/tb_first.vhd|
+!i113 0
+R16
+R17
+Atestbench
+R6
+R7
+Z24 DEx4 work 10 test_first 0 22 @2<J>@`Co8gb8om`MX=?60
+!i122 25
+l38
+Z25 L8 68
+Z26 V?Pnb4Nl11<X3Xj3<gecGE2
+Z27 !s100 mdW:?Z2MN8ge]d]jMmCeH0
+R11
+33
+R21
+!i10b 1
+R13
+R22
+R23
+!i113 0
+R16
+R17
